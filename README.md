@@ -7,7 +7,7 @@ This bot aims to simplify the task of users as much as possible, offering them a
 it also contains some specialties available to supporters (those who have purchased the premium). 🎊
 
 ## Commands:
-### /play input:"url/title"
+* []() /play input:"url/title"
         Plays music in the channel the user is logged into or adds music to the queue if there is one.
 
 ## Credits
