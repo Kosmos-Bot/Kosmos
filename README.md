@@ -8,7 +8,7 @@ it also contains some specialties available to supporters (those who have purcha
 
 ## Commands:
 * []() /play input:"url/title"
-        Plays music in the channel the user is logged into or adds music to the queue if there is one.
+``Plays music in the channel the user is logged into or adds music to the queue if there is one.``
 
 ## Credits
 RenardyL: Lead Management and Developpement
