@@ -3,12 +3,19 @@
 The most powerful music bot, and the easiest to use! ✨
 
 ## Description:
-This bot aims to simplify the task of users as much as possible, offering them a complete and easy to understand interface;
+This bot aims to simplify the task of users as much as possible, offering them a complete and easy to understand interface
 it also contains some specialties available to supporters (those who have purchased the premium). 🎊
 
 ## Commands:
-/play input:``url/title``
-    -> ``Plays music in the channel the user is logged into or adds music to the queue if there is one.``
+### /play input:``url/title``
+   **->** `Plays songs in the channel the user is logged into or adds music to the queue if there is one.`
+### /skip
+   **->** `Skip the current playing song in the channel the user is logged.`
+### /stop
+   **->** `Stop the current playing song/queue in the channel the user is logged.`
+### /premium
+   **->** `See current status of premium of the current server.`
+### SOON LATER.
 
 ## Credits
-RenardyL: Lead Management and Developpement
+RenardyL: Lead Management and Developpement 🌌
