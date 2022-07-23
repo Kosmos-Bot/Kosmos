@@ -18,4 +18,4 @@ it also contains some specialties available to supporters (those who have purcha
 
 ## Credits
 * RenardyL: **Lead** Management and Developpement 🌌
-* Aznum-Shark: Managemer and Developper 🌌
+* Aznum-Shark: Manager and Developper 🌌
