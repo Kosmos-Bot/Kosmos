@@ -13,6 +13,8 @@ it also contains some specialties available to supporters (those who have purcha
    **->** `Skip the current playing song in the channel the user is logged.`
 ### /stop
    **->** `Stop the current playing song/queue in the channel the user is logged.`
+### /volume
+   **->** `Manage the volume of the music with one command.`
 ### /premium
    **->** `See current status of premium of the current server.`
 
