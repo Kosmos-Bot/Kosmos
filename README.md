@@ -8,7 +8,7 @@ it also contains some specialties available to supporters (those who have purcha
 
 ## Commands
 ### /play input:``url/title``
-   **->** `Plays songs in the channel the user is logged into or adds music to the queue if there is one, supported platform : Youtube`
+   **->** `Plays songs in the channel the user is logged into or adds music to the queue if there is one.`
 ### /skip
    **->** `Skip the current playing song in the channel the user is logged.`
 ### /stop
